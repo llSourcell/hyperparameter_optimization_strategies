@@ -4,8 +4,8 @@ from random import randint
 
 #read data
 dataframe = pd.read_fwf('tweets.txt')
-x_values = dataframe[['tweet']]
-y_values = dataframe[['sentiment']]
+X = dataframe[['tweet']]
+y = dataframe[['sentiment']]
 
 best_score = 0  
 best_params = {'C': None, 'gamma': None}
