@@ -3,7 +3,7 @@ This is the Code for "How Do I Find the Best Hyperparameters?- The Math of Intel
 
 # Coding Challenge - Due Date - Thursday, August 3rd, 2017
 
-Use Bayesian Optimization to find the optimal learning rate for a linear regression model. You can use any dataset you like (examples [here](https://www.kaggle.com/datasets) and you can use any "bayesian optimization library" you like as well. Bonus points are given if you are able to perform Bayesian optimization without using any libraries. Good luck!
+Use Bayesian Optimization to find the optimal learning rate for a linear regression model. You can use any dataset you like (examples [here](https://www.kaggle.com/datasets)) and you can use any "bayesian optimization library" you like as well. Bonus points are given if you are able to perform Bayesian optimization without using any libraries. Good luck!
 
 ## Overview
 
