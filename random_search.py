@@ -3,7 +3,7 @@ import svm
 from random import randint
 
 #read data
-dataframe = pd.read_fwf('tweets.txt')
+dataframe=pd.read_csv("tweets_all.csv")
 X = dataframe[['tweet']]
 y = dataframe[['sentiment']]
 
